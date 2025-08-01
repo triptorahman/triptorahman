@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Hi, I'm Md. Samiur Rahman
 
-<!--
-**triptorahman/triptorahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Backend Developer | Software Engineer | Full Stack Developer
 
-Here are some ideas to get you started:
+🌐 [Visit My Portfolio](https://triptorahman.github.io/mdsamiurrahman.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Contact: triptorahman@gmail.com  
+📍 Based in Dhaka, Bangladesh  
+🏢 Working at Adventure Dhaka Limited
+
+## 🔧 Skills
+- PHP, Laravel, CakePHP, CodeIgniter
+- JavaScript, ReactJS
+- MySQL, Redis
+- Docker, REST API
+
+## 📈 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=triptorahman&layout=compact)
+
