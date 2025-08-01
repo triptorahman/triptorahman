@@ -94,4 +94,3 @@ Built an intelligent voice assistant plugin to enhance accessibility and usabili
 
 ---
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
