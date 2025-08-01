@@ -90,7 +90,6 @@ Built an intelligent voice assistant plugin to enhance accessibility and usabili
 ### 📊 GitHub Stats
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=triptorahman&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=triptorahman&show_icons=true&theme=radical)
 
 ---
 
