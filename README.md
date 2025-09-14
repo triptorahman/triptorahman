@@ -6,7 +6,7 @@
 📫 Email: [triptorahman@gmail.com](mailto:triptorahman@gmail.com)   
 💼 LinkedIn: [linkedin.com/in/samiur-rahman-tripto](https://www.linkedin.com/in/samiur-rahman-tripto/)  
 🐙 GitHub: [github.com/triptorahman](https://github.com/triptorahman)
-
+🌐 Portfolio: [samiurrahman.xyz](https://samiurrahman.xyz) 
 ---
 
 ## 🛠️ Tech Stack
